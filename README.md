@@ -21,10 +21,10 @@ I'm a **Backend Engineer** who loves building robust, scalable systems and playi
 - 🎬 [**flask-yt-downloader**](https://github.com/haiser1/flask-yt-downloader)  
   Download YouTube videos the easy way with Flask!
 
-- 📚 [**api-management-perpus**](https://github.com/haiser1/api-management-perpus)  
+- 📚 [**api-management-perpus**](https://github.com/haiser1/API_Management_PERPUS)  
   API management for libraries – keeping your digital shelves organized.
 
-- 💸 [**casier-api**](https://github.com/haiser1/casier-api)  
+- 💸 [**casier-api**](https://github.com/haiser1/API_KASIR)  
   Cashier API to handle transactions smoothly and reliably.
 
 - ♻️ [**trashsell**](https://github.com/haiser1/trashsell)  
